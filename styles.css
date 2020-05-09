@@ -1,0 +1,83 @@
+body {
+    background-color: pink;
+    padding: 0;
+    margin: 0;
+}
+
+#headDiv {
+    width: auto;
+    margin-left: 5%;
+    height: 30px;
+    padding: 10px;
+}
+
+#headDiv h3, #headDiv1 p {
+    float: left;
+
+}
+
+#headDiv h3 {
+    font-weight: bolder;
+    margin: 10px 0px 10px 40px;
+    font-size: xx-large;
+}
+
+#headDiv1 {
+    background-color: white;
+    width: 65%;
+    margin:8px 10% 5px 30%;
+    height: 70%;
+    padding: 10px;
+    justify-items: stretch;
+}
+
+.headDivElement1{
+    font-size: large;
+    font-weight: 700;
+    margin:10px 0px 10px 10px;
+}
+
+.headDivElement2{
+    margin: 10px 0px 10px 25%;
+    font-size: large;
+    font-weight: 700;
+}
+
+#body{
+    background-color:'';
+}
+
+#bodyDiv1{
+    float: right;
+    width: 47%;
+    background-color: white;
+    margin-right: 40px;
+
+}
+
+#bodyDiv2{
+    background-color:white;
+    width: 47%;
+    margin-left: 10px;
+}
+
+/*CSS FOR TABLE AT RIGHT SIDE*/
+
+#innerDiv1{
+    height: 260px;
+    background-color: white;
+}
+
+#logo{
+    height: 190px;
+    width: 520px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#innerDiv2{
+    width: 550px;
+    margin: 0px;
+    padding: 0px;
+}
+
